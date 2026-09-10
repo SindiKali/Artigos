@@ -1,6 +1,6 @@
 # Por que vulnerabilidades web clássicas continuam relevantes na era da IA
 
-[!image](https://cdn-images-1.medium.com/max/800/0*FsmHhwl-FbbxBpgt)
+![image](https://cdn-images-1.medium.com/max/800/0*FsmHhwl-FbbxBpgt)
 
 Este artigo adota uma abordagem de revisão de literatura e análise empírica baseada em relatórios da indústria de software e segurança cibernética. 
 A investigação cruza dados de telemetria de desenvolvimento (como os estudos do GitClear sobre 211 milhões de linhas de código e métricas do Google DevOps Research and Assessment - DORA), 
